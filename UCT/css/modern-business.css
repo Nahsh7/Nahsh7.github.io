@@ -1,0 +1,262 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template/modern-business)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+:root { 
+ #D2D6EF
+}
+ 
+ 
+ 
+ 
+body {
+  padding-top: 56px;
+  background-color: #343A40;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #0b3142;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.logoImage {
+height: 120px;
+width: 280px;	
+margin-left: -10px;
+}
+
+
+.my-4 {
+color: #FFF;
+}
+
+.used-laptop1 {
+height:250px;
+width:250px;
+font: black;
+}
+
+.used-phone1 {
+height:200px;
+width:200px;
+}
+
+.used-tv1 {
+height:200px;
+width:200px;
+}
+
+.card-body{
+background-color: #242423;
+color: #FFF;
+height:420px;
+width:300px;
+}
+.card-header{
+background-color: #242423;
+}
+
+.card-footer{
+color: #ECEBE4;
+}
+
+.card-text{
+color: #FFF;
+font-size: 21px;
+}
+
+
+.card{
+background-color: #242423;
+color: #FFF;
+}
+
+.navbar-nav{
+position: center;
+color: #FFF;
+
+}
+
+.topNav
+{
+	position: ;
+	/*border: 1px solid #ff0000;*/
+	margin-top: 0px;
+	height: 30px;
+	color: #7C8E9C;
+	
+}
+
+.topNav a
+{
+	text-decoration: none;
+	/*border: 1px solid #00ff00;*/
+	font-size: 20px;
+	margin-right:10px;
+	margin-left: 10px;
+	background-color:#343A40;
+	color: #FFF;
+	display: inline-block;
+}
+
+#currentTab 
+{
+background-color: #;
+color: #FFF;
+font-weight: bold;
+text-decoration: underline ;
+}
+
+.topNav a:hover
+{
+	background-color:;
+	color: #28AFB0;
+}
+
+.used-ps4{
+height:200px ;
+Width: 250px;
+}
+
+.used-fridge1{
+height:250px ;
+Width: 250px;
+}
+
+.used-3ds{
+height:250px ;
+Width: 250px;
+}
+
+.used-psvita{
+height:250px ;
+Width: 250px;
+}
+
+.used-xboxonex{
+height:250px ;
+Width: 250px;
+}
+
+.used-speaker{
+height:250px ;
+Width: 250px;
+}
+
+.laptop-link{
+color:white;
+}
+
+.about-ulti{
+color:white;
+}
+
+
+.search-bar{
+position: relative;
+margin-right: -10px;
+margin-left: 60px;
+margin-top: -20px;
+width: px;
+}
+
+
+form {
+  border: 3px solid #f1f1f1;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #28AFB0;
+  color: white;
+  padding: 4px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+}
+
+/* Add a hover effect for buttons */
+button:hover {
+  opacity: 0.8;
+}
+/
+
+/* Center the avatar image inside this container */
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+
+/* Add padding to containers */
+.container {
+  position: relative;	
+}
+
+/* The "Forgot password" text */
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+}
+
+.page-link{
+color:#FFF;
+background-color:#343A40;
+}
+
+.box2{
+margin-left: 5px
+}
+
+.box3{
+margin-left: 10px
+}
+
+.box4{
+margin-right: 20px
+}
+
+.box5{
+margin-left: 10px
+}
+
+.box6{
+margin-left: 40px
+}
+
+.box7{
+margin-left: 10px
+}
+
+.about-ulti{
+text-align: center;
+}
